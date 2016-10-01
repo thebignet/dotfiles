@@ -84,6 +84,7 @@ brew install xz
 brew install ack
 brew install dark-mode
 #brew install exiv2
+brew install gpg
 brew install git
 brew install git-lfs
 brew install imagemagick --with-webp
@@ -101,6 +102,39 @@ brew install tree
 brew install vbindiff
 brew install webkit2png
 brew install zopfli
+
+# Languages
+brew cask install java
+brew install scala
+brew install scalaenv
+brew install groovy
+brew install gradle
+brew install kotlin
+
+# Development applications
+brew cask install intellij-idea-ce
+brew cask install subl
+brew cask install atom
+brew cask install docker-toolbox
+brew cask install p4merge
+
+# Applications
+brew cask install firefox
+brew cask install slack
+brew cask install vlc
+
+# System utilities
+brew cask install spectacle
+brew cask install dashlane
+brew cask install iterm2
+brew cask install onyx
+brew cask install dropbox
+brew cask install flux
+
+# Development fonts
+brew tap caskroom/fonts
+brew cask install font-fira-code
+brew cask install font-monoid
 
 # Remove outdated versions from the cellar.
 brew cleanup
