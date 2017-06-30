@@ -112,9 +112,10 @@ brew install gradle
 brew install kotlin
 
 # Development applications
-brew cask install intellij-idea-ce
+brew cask install jetbrains-toolbox
 brew cask install subl
 brew cask install atom
+brew cask install visual-studio-code
 brew cask install docker-toolbox
 brew cask install p4merge
 
@@ -126,6 +127,7 @@ brew cask install vlc
 # System utilities
 brew cask install spectacle
 brew cask install dashlane
+brew cask install lastpass
 brew cask install iterm2
 brew cask install onyx
 brew cask install dropbox
