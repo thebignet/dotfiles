@@ -123,6 +123,7 @@ brew cask install p4merge
 brew cask install firefox
 brew cask install slack
 brew cask install vlc
+brew cask install gimp
 
 # System utilities
 brew cask install spectacle
