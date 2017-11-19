@@ -110,14 +110,13 @@ brew install zopfli
 brew cask install java
 brew install scala
 brew install scalaenv
+brew install sbt
 brew install groovy
 brew install gradle
 brew install kotlin
 
 # Development applications
 brew cask install jetbrains-toolbox
-brew cask install subl
-brew cask install atom
 brew cask install visual-studio-code
 brew cask install docker-toolbox
 brew cask install p4merge
@@ -127,6 +126,8 @@ brew cask install firefox
 brew cask install slack
 brew cask install vlc
 brew cask install gimp
+brew cask install xquartz
+brew cask install inkscape
 
 # System utilities
 brew cask install spectacle
@@ -135,7 +136,6 @@ brew cask install lastpass
 brew cask install iterm2
 brew cask install onyx
 brew cask install dropbox
-brew cask install flux
 
 # Development fonts
 brew tap caskroom/fonts
